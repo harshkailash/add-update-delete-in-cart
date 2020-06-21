@@ -1,0 +1,37 @@
+table{
+  width:100%;
+  border-collapse: collapse;
+}
+th{
+  width:33%;
+}
+.head {
+  width: 100%;
+  position: absolute;
+  z-index: 10;
+}
+#i1{
+  display: none;
+  background-color: lightblue;
+  border: 1px solid black;
+  
+}
+#i2{
+  display: none;
+  background-color: lightblue;
+  border: 1px solid black;
+}
+#i3{
+  display: none;
+  background-color: lightblue;
+  border: 1px solid black;
+}
+.tr1 {
+  border: 1px solid black;
+}
+.t2 {
+  width: 33%;
+}
+td {
+  width: 25%;
+}
